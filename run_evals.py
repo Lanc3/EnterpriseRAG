@@ -1,6 +1,6 @@
 import os
 from dotenv import load_dotenv
-from openai import openai
+import openai
 
 load_dotenv()
 
